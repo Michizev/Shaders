@@ -2,7 +2,14 @@
 
 This is a repository for my finished shaders of my shader class for University. 
 
-### Moving Voronoid
+## Moving Voronoid
+![Shader](pixelcell/reddots.png)
+
+## Shaderwave pyramid
+
+![Shader](pyramid/pyra.png)
 
 
-### Shaderwave pyramid
+## Clouds
+
+![Shader](clouds/clouds.png)
